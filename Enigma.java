@@ -9,6 +9,7 @@ public class Enigma
 {
     /**
      * Metodo que devuelve el numero encriptado
+     * y controlamos la  condicion
      */
     public int encripta(Mecanismo mecanismo, int numero)
     {
@@ -21,6 +22,7 @@ public class Enigma
 
     /**
      * Metodo que desencripta el numero encriptado
+     * y controlamos la condicion
      */
     public int desencripta(Mecanismo mecanismo, int numero)
     {

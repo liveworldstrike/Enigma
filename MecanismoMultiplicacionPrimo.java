@@ -25,7 +25,7 @@ public class MecanismoMultiplicacionPrimo extends Mecanismo
     }
     
     /**
-     * metodo de encriptado 1
+     * metodo de desencriptado 1
      * 
      */
     public int getNumeroDesencriptado(int numeroEncriptar)
